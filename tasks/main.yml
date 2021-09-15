@@ -1,0 +1,5 @@
+---
+# tasks file for website
+- import_tasks: install.yaml
+- import_tasks: service.yaml
+- import_tasks: config.yaml
